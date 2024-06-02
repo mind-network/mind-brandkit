@@ -12,7 +12,7 @@
 
 | Links | Style 1 | 
 | ---- | ---- |
-| <a href="https://raw.githubusercontent.com/mind-network/mind-brandkit/main/logo1.svg">.svg</a> <br> <a href="https://raw.githubusercontent.com/mind-network/mind-brandkit/main/logo2.png">.png</a> <br> <a href="https://raw.githubusercontent.com/mind-network/mind-brandkit/main/logo3.ai">.ai</a> | <img src="logo2.png" alt="logo2" height="200" style="background-color:#FFFFFF"/> |
+| <a href="https://raw.githubusercontent.com/mind-network/mind-brandkit/main/logo1.svg" download="mind_logo1.svg">.svg</a> <br> <a href="https://raw.githubusercontent.com/mind-network/mind-brandkit/main/logo2.png">.png</a> <br> <a href="https://raw.githubusercontent.com/mind-network/mind-brandkit/main/logo3.ai">.ai</a> | <img src="logo2.png" alt="logo2" height="200" style="background-color:#FFFFFF"/> |
 
 
 
