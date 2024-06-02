@@ -7,6 +7,7 @@
 
 ### FULL COLORED LOGO ON LIGHT BACKGROUND
 
+<img src="/logo2.svg" alt="logo2" height="200"/>
 ![logo2](/logo2.svg =100x)
 [.svg](/logo1.svg) | [.png](/logo2.png) | [.ai](/logo3.ai) 
 
