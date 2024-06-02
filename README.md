@@ -7,7 +7,7 @@
 
 ### FULL COLORED LOGO ON LIGHT BACKGROUND
 
-![logo1](logo1.svg)
+![logo1](logo1.svg =100)
 [.svg](/logo1.svg) | [.png](/logo2.png) | [.ai](/logo3.ai) 
 
 ### FULL COLORED LOGO ON DARK BACKGROUND
